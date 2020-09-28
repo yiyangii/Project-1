@@ -1,0 +1,203 @@
+Assumption:
+Start time ---0
+Finish time 100
+Arrival minimum 10
+Arrial maximum 20
+Quit probability 50
+Network probability 50
+CPU minimum 10
+CPU maximum 20
+Disk 1 minimum 0
+Disk 1 maximum 0
+Disk 2 minimum 20
+Disk 2 maximum 20
+Network minimum 20
+Network maximum 50
+
+ in Time: 0 Job no.1   entered the cpu queue 
+ in Time: 0 Job no.2   entered the cpu queue 
+ in Time: 16 Job no.3   entered the cpu queue 
+ in Time: 17 Job no.1  finished at cpu 
+ in Time: 17 Job no.4   entered the cpu queue 
+ in Time: 18 Job no.1  enter network queue 
+ in Time: 18 Job no.5   entered the cpu queue 
+ in Time: 20 Job no.2   entered the cpu queue 
+ in Time: 20 Job no.6   entered the cpu queue 
+ in Time: 27 Job no.4   entered the cpu queue 
+ in Time: 27 Job no.7   entered the cpu queue 
+ in Time: 28 Job no.3   entered the cpu queue 
+ in Time: 28 Job no.8   entered the cpu queue 
+ in Time: 31 Job no.5   entered the cpu queue 
+ in Time: 31 Job no.9   entered the cpu queue 
+ in Time: 38 Job no.6   entered the cpu queue 
+ in Time: 38 Job no.10   entered the cpu queue 
+ in Time: 41 Job no.11   entered the cpu queue 
+ in Time: 42 Job no.7   entered the cpu queue 
+ in Time: 42 Job no.12   entered the cpu queue 
+ in Time: 44 Job no.13   entered the cpu queue 
+ in Time: 45 Job no.8   entered the cpu queue 
+ in Time: 45 Job no.14   entered the cpu queue 
+ in Time: 48 Job no.10   entered the cpu queue 
+ in Time: 48 Job no.15   entered the cpu queue 
+ in Time: 50 Job no.16   entered the cpu queue 
+ in Time: 51 Job no.1  finished network 
+ in Time: 51 Job no.17   entered the cpu queue 
+ in Time: 51 Job no.9   entered the cpu queue 
+ in Time: 51 Job no.18   entered the cpu queue 
+ in Time: 52 Job no.12   entered the cpu queue 
+ in Time: 52 Job no.19   entered the cpu queue 
+ in Time: 55 Job no.20   entered the cpu queue 
+ in Time: 56 Job no.8  finished at cpu 
+ in Time: 56 Job no.21   entered the cpu queue 
+ in Time: 57 Job no.22   entered the cpu queue 
+ in Time: 58 Job no.14   entered the cpu queue 
+ in Time: 58 Job no.23   entered the cpu queue 
+ in Time: 59 Job no.11   entered the cpu queue 
+ in Time: 59 Job no.24   entered the cpu queue 
+ in Time: 60 Job no.13   entered the cpu queue 
+ in Time: 60 Job no.25   entered the cpu queue 
+ in Time: 64 Job no.1   entered the cpu queue 
+ in Time: 64 Job no.26   entered the cpu queue 
+ in Time: 64 Job no.19   entered the cpu queue 
+ in Time: 64 Job no.27   entered the cpu queue 
+ in Time: 67 Job no.22   entered the cpu queue 
+ in Time: 67 Job no.28   entered the cpu queue 
+ in Time: 68 Job no.15   entered the cpu queue 
+ in Time: 68 Job no.29   entered the cpu queue 
+ in Time: 68 Job no.17   entered the cpu queue 
+ in Time: 68 Job no.30   entered the cpu queue 
+ in Time: 68 Job no.18   entered the cpu queue 
+ in Time: 68 Job no.31   entered the cpu queue 
+ in Time: 70 Job no.16   entered the cpu queue 
+ in Time: 70 Job no.32   entered the cpu queue 
+ in Time: 70 Job no.21   entered the cpu queue 
+ in Time: 70 Job no.33   entered the cpu queue 
+ in Time: 71 Job no.12  finished at cpu 
+ in Time: 71 Job no.34   entered the cpu queue 
+ in Time: 72 Job no.12  entered the disk1 queue 
+ in Time: 72 Job no.35   entered the cpu queue 
+ in Time: 72 Job no.20   entered the cpu queue 
+ in Time: 72 Job no.36   entered the cpu queue 
+ in Time: 72 Job no.23   entered the cpu queue 
+ in Time: 72 Job no.37   entered the cpu queue 
+ in Time: 73 Job no.12  finish disk 1 
+ in Time: 73 Job no.12   entered the cpu queue 
+ in Time: 73 Job no.38   entered the cpu queue 
+ in Time: 76 Job no.24   entered the cpu queue 
+ in Time: 76 Job no.39   entered the cpu queue 
+ in Time: 76 Job no.26   entered the cpu queue 
+ in Time: 76 Job no.40   entered the cpu queue 
+ in Time: 78 Job no.25   entered the cpu queue 
+ in Time: 78 Job no.41   entered the cpu queue 
+ in Time: 78 Job no.42   entered the cpu queue 
+ in Time: 79 Job no.11  finished at cpu 
+ in Time: 79 Job no.43   entered the cpu queue 
+ in Time: 79 Job no.14  finished at cpu 
+ in Time: 79 Job no.44   entered the cpu queue 
+ in Time: 80 Job no.14  enter network queue 
+ in Time: 80 Job no.45   entered the cpu queue 
+ in Time: 81 Job no.1  finished at cpu 
+ in Time: 81 Job no.46   entered the cpu queue 
+ in Time: 81 Job no.27   entered the cpu queue 
+ in Time: 81 Job no.47   entered the cpu queue 
+ in Time: 81 Job no.31   entered the cpu queue 
+ in Time: 81 Job no.48   entered the cpu queue 
+ in Time: 81 Job no.33   entered the cpu queue 
+ in Time: 81 Job no.49   entered the cpu queue 
+ in Time: 82 Job no.30   entered the cpu queue 
+ in Time: 82 Job no.50   entered the cpu queue 
+ in Time: 82 Job no.35   entered the cpu queue 
+ in Time: 82 Job no.51   entered the cpu queue 
+ in Time: 82 Job no.1  enter network queue 
+ in Time: 82 Job no.52   entered the cpu queue 
+ in Time: 83 Job no.21  finished at cpu 
+ in Time: 83 Job no.53   entered the cpu queue 
+ in Time: 83 Job no.28   entered the cpu queue 
+ in Time: 83 Job no.54   entered the cpu queue 
+ in Time: 83 Job no.36   entered the cpu queue 
+ in Time: 83 Job no.55   entered the cpu queue 
+ in Time: 84 Job no.38   entered the cpu queue 
+ in Time: 84 Job no.56   entered the cpu queue 
+ in Time: 84 Job no.21  enter network queue 
+ in Time: 84 Job no.57   entered the cpu queue 
+ in Time: 84 Job no.22  finished at cpu 
+ in Time: 84 Job no.58   entered the cpu queue 
+ in Time: 84 Job no.15  finished at cpu 
+ in Time: 84 Job no.59   entered the cpu queue 
+ in Time: 85 Job no.29   entered the cpu queue 
+ in Time: 85 Job no.60   entered the cpu queue 
+ in Time: 85 Job no.22  entered the disk1 queue 
+ in Time: 85 Job no.61   entered the cpu queue 
+ in Time: 86 Job no.22  finish disk 1 
+ in Time: 86 Job no.22   entered the cpu queue 
+ in Time: 86 Job no.62   entered the cpu queue 
+ in Time: 87 Job no.16  finished at cpu 
+ in Time: 87 Job no.63   entered the cpu queue 
+ in Time: 88 Job no.37   entered the cpu queue 
+ in Time: 88 Job no.64   entered the cpu queue 
+ in Time: 89 Job no.39   entered the cpu queue 
+ in Time: 89 Job no.65   entered the cpu queue 
+ in Time: 90 Job no.32   entered the cpu queue 
+ in Time: 90 Job no.66   entered the cpu queue 
+ in Time: 90 Job no.34   entered the cpu queue 
+ in Time: 90 Job no.67   entered the cpu queue 
+ in Time: 91 Job no.24  finished at cpu 
+ in Time: 91 Job no.68   entered the cpu queue 
+ in Time: 92 Job no.12   entered the cpu queue 
+ in Time: 92 Job no.69   entered the cpu queue 
+ in Time: 92 Job no.51   entered the cpu queue 
+ in Time: 92 Job no.70   entered the cpu queue 
+ in Time: 93 Job no.20  finished at cpu 
+ in Time: 93 Job no.71   entered the cpu queue 
+ in Time: 94 Job no.20  enter network queue 
+ in Time: 94 Job no.72   entered the cpu queue 
+ in Time: 94 Job no.41   entered the cpu queue 
+ in Time: 94 Job no.73   entered the cpu queue 
+ in Time: 94 Job no.57   entered the cpu queue 
+ in Time: 94 Job no.74   entered the cpu queue 
+ in Time: 95 Job no.55   entered the cpu queue 
+ in Time: 95 Job no.75   entered the cpu queue 
+ in Time: 95 Job no.76   entered the cpu queue 
+ in Time: 95 Job no.77   entered the cpu queue 
+ in Time: 96 Job no.31  finished at cpu 
+ in Time: 96 Job no.78   entered the cpu queue 
+ in Time: 96 Job no.26  finished at cpu 
+ in Time: 96 Job no.79   entered the cpu queue 
+ in Time: 96 Job no.40   entered the cpu queue 
+ in Time: 96 Job no.80   entered the cpu queue 
+ in Time: 96 Job no.54   entered the cpu queue 
+ in Time: 96 Job no.81   entered the cpu queue 
+ in Time: 97 Job no.42   entered the cpu queue 
+ in Time: 97 Job no.82   entered the cpu queue 
+ in Time: 97 Job no.53   entered the cpu queue 
+ in Time: 97 Job no.83   entered the cpu queue 
+ in Time: 97 Job no.59   entered the cpu queue 
+ in Time: 97 Job no.84   entered the cpu queue 
+ in Time: 97 Job no.31  enter network queue 
+ in Time: 97 Job no.85   entered the cpu queue 
+ in Time: 97 Job no.27  finished at cpu 
+ in Time: 97 Job no.86   entered the cpu queue 
+ in Time: 98 Job no.43   entered the cpu queue 
+ in Time: 98 Job no.87   entered the cpu queue 
+ in Time: 98 Job no.44   entered the cpu queue 
+ in Time: 98 Job no.88   entered the cpu queue 
+ in Time: 98 Job no.45   entered the cpu queue 
+ in Time: 98 Job no.89   entered the cpu queue 
+ in Time: 98 Job no.46   entered the cpu queue 
+ in Time: 98 Job no.90   entered the cpu queue 
+ in Time: 98 Job no.47   entered the cpu queue 
+ in Time: 98 Job no.91   entered the cpu queue 
+ in Time: 98 Job no.48   entered the cpu queue 
+ in Time: 98 Job no.92   entered the cpu queue 
+ in Time: 98 Job no.30  finished at cpu 
+ in Time: 98 Job no.93   entered the cpu queue 
+ in Time: 99 Job no.30  entered the disk1 queue 
+ in Time: 99 Job no.94   entered the cpu queue 
+ in Time: 99 Job no.49   entered the cpu queue 
+ in Time: 99 Job no.95   entered the cpu queue 
+ in Time: 99 Job no.33  finished at cpu 
+ in Time: 99 Job no.96   entered the cpu queue 
+ in Time: 99 Job no.36  finished at cpu 
+ in Time: 99 Job no.97   entered the cpu queue 
+ in Time: 100 Job no.52   entered the cpu queue 
+ in Time: 100 Job no.98   entered the cpu queue 
